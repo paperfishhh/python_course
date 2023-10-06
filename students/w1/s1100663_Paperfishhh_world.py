@@ -6,4 +6,4 @@ import sys;
 def hello(id,name):
     print(id,name)
 
-hello(1100663,"李芷榆")
+hello(1100663,"李芷榆1")
